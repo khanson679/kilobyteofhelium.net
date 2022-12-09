@@ -1,0 +1,4 @@
+Sitemap: https://www.kilogramofhelium.net/sitemapindex.xml
+
+User-Agent: *
+Host: www.kilogramofhelium.net
