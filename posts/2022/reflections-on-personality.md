@@ -47,10 +47,10 @@ Without further ado, I'll describe what each end of the spectrum looks like for 
 
 # Extroversion
 
-The fundamental characteristic of extroversion is *sensitivity to stimulation*.
+The fundamental characteristic of extroversion is sensitivity to stimulation.
 
 Extroverts need a lot of stimulation.
-This is why they are stereotypically adventurous, thrill-seeking, and above all, *sociable*.
+This is why they are stereotypically adventurous, thrill-seeking, and above all, sociable.
 Humans are social creatures, so social interaction is a particularly good way for extroverts to get their stimulation fix.
 
 Introverts, naturally, are the opposite.
@@ -105,7 +105,7 @@ Disagreeable people are usually very competitive, while agreeable people usually
 What's probably going on is that it is the nurturing aspect of agreeableness that is the opposite of competitiveness.
 
 I think I'm fairly agreeable, though there's a bit of ambiguity on this one.
-I am definitely averse to conflict, but I can also be very blunt, which is not supposed to be typical of agreeable people.
+I can also be very blunt, which is not supposed to be typical of agreeable people.
 I have a theory for this, but it's too vague to try to explain here.
 
 # Neuroticism
@@ -165,7 +165,7 @@ This has been on my mind a lot lately, due to dealing with a person who is prett
 # Can you change your personality?
 
 The answer is basically "no".
-While personality, like many things, develops from the interaction of genetics with individual experience, by the time you are an adult your personality is basically set.
+While personality, like many things, develops from the interaction of genetics and individual experience, by the time you are an adult your personality is basically set.
 This might be disappointing, but it's not all doom and gloom.
 
 First of all, simply understanding your personality can make it possible to leverage your strengths while compensating for your weaknesses, and the clear picture provided by the Five Factor model helps a lot with this.
