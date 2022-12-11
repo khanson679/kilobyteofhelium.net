@@ -353,7 +353,7 @@ NEW_POST_DATE_PATH = True
 
 # What format to use when creating posts with date paths?
 # Default is '%Y/%m/%d', other possibilities include '%Y' or '%Y/%m'.
-NEW_POST_DATE_PATH_FORMAT = '%Y/%m'
+NEW_POST_DATE_PATH_FORMAT = '%Y'
 
 # If this is set to True, the DEFAULT_LANG version will be displayed for
 # untranslated posts.
