@@ -1,6 +1,6 @@
 <!--
-.. title: Personality Types
-.. slug: personality-types
+.. title: Reflections on Personality
+.. slug: reflections-on-personality
 .. date: 2022-12-11
 .. tags: personality
 .. category: psychology
