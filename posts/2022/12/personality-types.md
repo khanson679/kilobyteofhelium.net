@@ -2,12 +2,11 @@
 .. title: Personality Types
 .. slug: personality-types
 .. date: 2022-12-11
-.. tags: 
-.. category: 
+.. tags: personality
+.. category: psychology
 .. link: 
 .. description: 
 .. type: text
-.. status: draft
 -->
 
 It was probably about 5 years ago that I learned about the Five Factor model of personality.
