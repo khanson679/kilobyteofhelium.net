@@ -22,6 +22,7 @@ Onward!
 # The Big Five
 
 The five factors are as follows:
+
 - Extroversion
 - Conscientiousness
 - Agreeableness
@@ -29,7 +30,7 @@ The five factors are as follows:
 - Openness
 
 Each of these is a continuous variable -- you have some people that score very high, some that score very low, and everything in between.
-Also, they are all normally distributed, so most people are somewhere in the middle range for each, with the extremes being comparatively rare.
+Also, they are normally distributed, so most people are somewhere in the middle range for each, with the extremes being comparatively rare.
 Finally, they are mostly uncorrelated with each other.
 This means that any particular individual might have any combination of values for each of the five factors.
 So if you wanted to classify people into personality types, and divided each factor into just three levels (low, medium, and high), you would get 3^5, or 243 distinct personality types.
@@ -55,7 +56,7 @@ Humans are social creatures, so social interaction is a particularly good way fo
 Introverts, naturally, are the opposite.
 Introverts are strongly effected by external stimuli.
 As a result, they don't need as much stimulation to reach a comfortable level, and can easily be pushed beyond this level.
-This explains why introverts find social interaction tiring.
+This explains why introverts find socializing tiring.
 It's not that they don't need or like it (at least, not necessarily), it's that you can have too much of a good thing.
 
 I am fairly introverted.
@@ -73,7 +74,7 @@ I forget what all 10 of the subfactors are, but the two subfactors of conscienti
 
 Orderliness includes the "neat and organized" part.
 Orderly people notice things that are dirty, cluttered, or just wrong, and want to fix them.
-The way this works is by threshold sensitivity -- a person scoring at level X for orderliness will notice and be bothered by things that for a person at level X+1 simply do not register at all.
+The way this works is by threshold sensitivity -- a person scoring at level X for orderliness will notice and be bothered by things that for a person at level X+1 simply do not register.
 Orderliness is also associated with disgust sensitivity, the main negative emotion that does not correlate with neuroticism.
 
 Industriousness is the "hard-working" part.
@@ -84,7 +85,7 @@ Less industrious people, in comparison, are quicker to throw in the towel.
 I'm definitely conscientious, probably about equal in orderliness and industriousness.
 What's a bit odd about me is that I aspire to be more conscientious than I actually am.
 My room, for example, is often in a state that I would describe as an "organized mess".
-Everything has a place, but it's not exactly pretty, and wow, it's kind of dusty, and that giant stack of papers really should be purged.
+Everything has a place, but it's not exactly pretty, and wow, it's kind of dusty, and those papers really should be cleaned out.
 Similarly, I have a certain amount of trouble getting things done.
 I frequently make plans and checklists, then proceed to completely ignore them.
 Ultra-organized people impress me more than anything.
@@ -99,12 +100,12 @@ The former means that they tend to be polite, and avoid "rocking the boat".
 The latter leads to nurturing and self-sacrificing behavior, and being deeply invested in personal relationships.
 Disagreeable people, in contrast, could care less what others think or feel.
 
-Interestingly, agreeableness is also the opposite of competitiveness.
-It turns out that disagreeable people are usually very competitive, while agreeable people usually are not.
-What's probably going on is that it is the nurturing aspect of agreeable people that is the mirror of the competitive side of disagreeable people.
+Interestingly, it turns out that agreeableness is *inversely* correlated with competitiveness.
+Disagreeable people are usually very competitive, while agreeable people usually are not.
+What's probably going on is that it is the nurturing aspect of agreeableness that is the opposite of competitiveness.
 
 I think I'm fairly agreeable, though there's a bit of ambiguity on this one.
-I can be very blunt, which is not supposed to be typical trait of agreeable people.
+I am definitely averse to conflict, but I can also be very blunt, which is not supposed to be typical of agreeable people.
 I have a theory for this, but it's too vague to try to explain here.
 
 # Neuroticism
@@ -114,7 +115,8 @@ Everything except for disgust, as mentioned earlier.
 Neurotic people are more likely than non-neurotic to get upset when bad things happen, and to get *very* upset when *very* bad things happen.
 
 It's a bit strange compared to the other traits, in that high neuroticism seems to be mostly a bad thing.
-For example, high neuroticism is associated with risk of clinical anxiety and depression, which certainly seems maladaptive since these conditions generally make it *harder* to deal with one's problems.
+For example, high neuroticism is associated with risk of clinical anxiety and depression.
+This certainly seems maladaptive, since these conditions generally make it *harder* to deal with one's problems.
 
 As someone who is moderately neurotic, I would speculate that the benefit of negative emotions is that they can serve as a wake-up call when things are amiss.
 For example, I get pretty upset with myself when I think I screwed up somehow, more so when I *know* that I screwed up.
@@ -139,7 +141,7 @@ I'm doing a PhD after all -- it's kind of a prerequisite.
 
 # Extroversion + Openness - Neuroticism = Adventurousness?
 
-What's really cool about the Five Factor model is how you can see how the different personality traits interact.
+What's really cool about the Five Factor model is that you can see how the different personality traits interact.
 For example, introverted people are not necessarily shy, but people who are both introverted and neurotic are likely to be.
 Similarly, conscientiousness plus neuroticism is a recipe for perfectionism.
 Low conscientiousness and high openness, plus maybe a dash of agreeableness, makes a hippy, the opposite, a prude.
@@ -163,17 +165,17 @@ This has been on my mind a lot lately, due to dealing with a person who is prett
 # Can you change your personality?
 
 The answer is basically "no".
-While personality, like many things, develops from the interaction of genetic predisposition with individual experience, by the time you are an adult your personality is basically set.
+While personality, like many things, develops from the interaction of genetics with individual experience, by the time you are an adult your personality is basically set.
 This might be disappointing, but it's not all doom and gloom.
 
-First of all, simply understanding your personality can make it possible to leverage your strengths while compensating for your weaknesses, and the Five Factor model helps a lot with this.
+First of all, simply understanding your personality can make it possible to leverage your strengths while compensating for your weaknesses, and the clear picture provided by the Five Factor model helps a lot with this.
 It is possible, with effort, to build habits that go against your natural instincts.
 
 Also, personality is not the entirety of who you are.
 Your knowledge and beliefs about the world are important too.
 So, for example, if you are neurotic, one of the things you can do to make life easier is to at least try to avoid getting upset when nothing is wrong.
 Hardly anyone noticed that flub during your presentation, and they won't remember anyway.
-No, that person probably doesn't hate you; they're probably just stressed.
+No, that person probably doesn't hate you, they're probably just stressed.
 And so on.
 
 # Don't take it personally
