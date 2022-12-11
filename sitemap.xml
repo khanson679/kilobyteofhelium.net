@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.kilogramofhelium.net/</loc>
-  <lastmod>2022-12-09T04:30:00Z</lastmod>
+  <lastmod>2022-12-11T06:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/2022/</loc>
@@ -35,10 +35,6 @@
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/listings/</loc>
-  <lastmod>2022-12-09T04:30:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.kilogramofhelium.net/posts/2022/12/hello-world/</loc>
   <lastmod>2022-12-09T04:30:00Z</lastmod>
  </url>
  <url>
