@@ -9,11 +9,7 @@
 .. type: text
 -->
 
-Title: Kimi no Shiranai Monogatari (The Story You Don't Know) <br/>
-Lyrics/Composition: ryo <br/>
-Performer: supercell
-
-This is the ending song to the anime *Bakemonogatari*.
+This is the ending song to the anime TV show *Bakemonogatari*.
 It's a real gem -- beautiful melody and lyrics, and adjusted an octave down it even fits my vocal range!
 You can find it on Youtube.
 
@@ -25,6 +21,12 @@ I provide only the romanization and translation below.
 You can find the original Japanese [here](https://www.uta-net.com/song/82447/).
 This translation is loose and not matched to the rhythm of the song.
 Also, sorry about the weird formatting -- I'm using Markdown tables.
+
+---
+
+Title: Kimi no Shiranai Monogatari (The Story You Don't Know) <br/>
+Lyrics/Composition: ryo <br/>
+Performer: supercell
 
 Japanese | English
 --- | ---

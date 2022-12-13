@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Kilobyte of Helium (Posts about translations)</title><link>https://www.kilogramofhelium.net/</link><description></description><atom:link href="https://www.kilogramofhelium.net/categories/translations.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 &lt;a href="mailto:"&gt;&lt;/a&gt; </copyright><lastBuildDate>Tue, 13 Dec 2022 06:09:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Song Translation: Kimi no Shiranai Monogatari</title><link>https://www.kilogramofhelium.net/posts/2022/song-translation-kimi-no-shiranai-monogatari/</link><description>&lt;p&gt;Title: Kimi no Shiranai Monogatari (The Story You Don't Know) &lt;br&gt;
-Lyrics/Composition: ryo &lt;br&gt;
-Performer: supercell&lt;/p&gt;
-&lt;p&gt;This is the ending song to the anime &lt;em&gt;Bakemonogatari&lt;/em&gt;.
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Kilobyte of Helium (Posts about translations)</title><link>https://www.kilogramofhelium.net/</link><description></description><atom:link href="https://www.kilogramofhelium.net/categories/translations.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 &lt;a href="mailto:"&gt;&lt;/a&gt; </copyright><lastBuildDate>Tue, 13 Dec 2022 06:11:18 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Song Translation: Kimi no Shiranai Monogatari</title><link>https://www.kilogramofhelium.net/posts/2022/song-translation-kimi-no-shiranai-monogatari/</link><description>&lt;p&gt;This is the ending song to the anime TV show &lt;em&gt;Bakemonogatari&lt;/em&gt;.
 It's a real gem -- beautiful melody and lyrics, and adjusted an octave down it even fits my vocal range!
 You can find it on Youtube.&lt;/p&gt;
 &lt;p&gt;I often find Japanese song lyrics difficult to understand.
@@ -12,6 +9,10 @@ This one, though, I think I basically understand, which is why I've decided to w
 You can find the original Japanese &lt;a href="https://www.uta-net.com/song/82447/"&gt;here&lt;/a&gt;.
 This translation is loose and not matched to the rhythm of the song.
 Also, sorry about the weird formatting -- I'm using Markdown tables.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Title: Kimi no Shiranai Monogatari (The Story You Don't Know) &lt;br&gt;
+Lyrics/Composition: ryo &lt;br&gt;
+Performer: supercell&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
