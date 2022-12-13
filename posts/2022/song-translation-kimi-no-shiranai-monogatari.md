@@ -1,6 +1,6 @@
 <!--
-.. title: Translation: Kimi no Shiranai Monogatari
-.. slug: translation-kimi-no-shiranai-monogatari
+.. title: Song Translation: Kimi no Shiranai Monogatari
+.. slug: song-translation-kimi-no-shiranai-monogatari
 .. date: 2022-12-13
 .. tags: music, translations
 .. category: song-translations
