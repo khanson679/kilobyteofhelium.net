@@ -24,14 +24,14 @@ Here's a few things that I'm feeling thankful for, in no particular order.
     There's no single person who makes a bigger difference to someone's PhD experience than their advisor, and I found myself a great one.
 1. **Repaved roads** <br/>
     The roads where I live are in apalling condition.
-    I was foolish enough to buy a commuter bike when you basically need a mountain bike just for the paved roads.
+    I was foolish enough to buy a commuter bike when you basically need a mountain bike even for the paved roads.
     But all of a sudden they decided to repave the road I use to get to work, and it's sooo pleasant now.
     Now if they would just redo the road to the grocery store...
 1. **Free gym** <br/>
     My campus gym has its downsides, but it's convenient, and I can get the membership fee reimbursed each year.
 1. **Improving health** <br/>
     I developed a chronic condition a few years ago that made life way harder than it should be.
-    Finally, in the last 6 months I've feeling something akin to normal.
+    Finally, in the last 6 months I'm feeling something approaching normal.
 1. **Research progress** <br/>
     Most PhD students in the U.S. work as teaching or research assistants to fund their education.
     I like teaching, but it's a gigantic time sink, especially when you're still taking classes yourself.
