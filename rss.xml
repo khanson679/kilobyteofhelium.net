@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Kilobyte of Helium</title><link>https://www.kilogramofhelium.net/</link><description>Some thoughts about some things.</description><atom:link href="https://www.kilogramofhelium.net/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 &lt;a href="mailto:"&gt;&lt;/a&gt; </copyright><lastBuildDate>Wed, 14 Dec 2022 03:14:20 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Things I'm Thankful For (2022)</title><link>https://www.kilogramofhelium.net/posts/2022/things-im-thankful-for-2022/</link><description>&lt;p&gt;Technically I'm several weeks late, but really there's never a bad time to spend some time focusing on gratitude.
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Kilobyte of Helium</title><link>https://www.kilogramofhelium.net/</link><description>Some thoughts about some things.</description><atom:link href="https://www.kilogramofhelium.net/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 &lt;a href="mailto:"&gt;&lt;/a&gt; </copyright><lastBuildDate>Fri, 16 Dec 2022 03:51:28 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>cat² = catcat?</title><link>https://www.kilogramofhelium.net/posts/2022/cat-squared-equals-catcat/</link><description>&lt;p&gt;What if I told you that you can do math with language?
+What, you didn't think math was about numbers, did you?
+Sure, you &lt;em&gt;can&lt;/em&gt; do math with numbers, but you can also do math with all sorts of things.&lt;/p&gt;
+&lt;p&gt;Here, I'll show you.
+We're going to use &lt;em&gt;strings&lt;/em&gt;.
+These are just sequences of arbitrary symbols.
+Traditionally we the lowercase letters &lt;em&gt;a, b, c, d&lt;/em&gt;, etc., but you could use anything.
+I think it would be fun to use little shapes like ♠♣♥♦, but they're too hard to type, so we'll do it the old fashioned way.&lt;/p&gt;
+&lt;p&gt;A string consists of zero or more symbols in linear order.
+So &lt;em&gt;a&lt;/em&gt; is a string, as is &lt;em&gt;ab&lt;/em&gt;, and &lt;em&gt;abcabcaaaaaa&lt;/em&gt;.
+There is only one string of length zero, which is called the "empty string".
+It's notated ϵ (Greek lowercase epsilon).&lt;/p&gt;
+&lt;p&gt;So what can you do with strings?
+Well, you can stick them together, one after the other.
+The fancy word for this is "concatenatation".&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;ab&lt;/em&gt; + &lt;em&gt;cd&lt;/em&gt; = &lt;em&gt;abcd&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Adding (concatenating) the empty string to either side of another string just gives you the same string back.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;abc&lt;/em&gt; + ϵ = ϵ + &lt;em&gt;abc&lt;/em&gt; = &lt;em&gt;abc&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If you've even done any kind of programming, this should be familiar.
+Programmers are used to the idea of making up new kinds of objects and operations.&lt;/p&gt;
+&lt;p&gt;What are some other things you can do with strings?
+Well, you can repeat a string some number of times.
+This is notated with a superscript, like raising a number to a power.
+For example, &lt;em&gt;a⁵b⁵&lt;/em&gt; is short for aaaaabbbbb, and &lt;em&gt;(ab)³&lt;/em&gt; = &lt;em&gt;ababab&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;You can also substitute a string into another.
+The notation I've see for this uses a dotted circle (⊙) for this operation, and the string on the left side needs to have a box (□) showing where to insert the string on the right.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;l□r&lt;/em&gt; ⊙ &lt;em&gt;c&lt;/em&gt; = &lt;em&gt;lcr&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Okay, so what exactly is this good for?
+Well, just as you can use numbers to model phenomena in physics or economics, you can use strings to model language.
+I'm still thinking about to talk about this in a way that keeps things light and fun, so you'll just have to wait for part two.&lt;/p&gt;</description><category>computation</category><category>language</category><category>math</category><guid>https://www.kilogramofhelium.net/posts/2022/cat-squared-equals-catcat/</guid><pubDate>Fri, 16 Dec 2022 02:22:07 GMT</pubDate></item><item><title>Things I'm Thankful For (2022)</title><link>https://www.kilogramofhelium.net/posts/2022/things-im-thankful-for-2022/</link><description>&lt;p&gt;Technically I'm several weeks late, but really there's never a bad time to spend some time focusing on gratitude.
 Here's a few things that I'm feeling thankful for, in no particular order.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;New friends&lt;/strong&gt; &lt;br&gt;
