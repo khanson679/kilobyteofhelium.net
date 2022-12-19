@@ -36,13 +36,13 @@ Kimi wa totsuzen tachiagari itta | You suddenly stood up and said
 |
 "Tama ni wa ii koto iu n da ne" | "Every once in a while you have a good idea!"
 Nante minna shite itte waratta | We all said laughing
-Akari mo nai michi wo | As we gleefully trapsed down
-Baka mitai ni hashaide aruita | An unlit road
-Kakaekonda kodoku ya fuan ni | Trying to avoid being crushed
-Oshitsubusarenai you ni | By the anxiety we felt
+Akari mo nai michi wo | While gleefully trapsing down
+Baka mitai ni hashaide aruita | A completely unlit road
+Kakaekonda kodoku ya fuan ni | As we tried to supress the anxiety
+Oshitsubusarenai you ni | That was weighing on us
 |
 Makkura na sekai kara miageta | We looked up from the blackness
-Yozora wa hoshi ga furu you de | And the stars looked as if they could fall from the sky
+Yozora wa hoshi ga furu you de | The stars looked as if they might fall from the sky
 |
 Itsu kara darou kimi no koto wo | How long has it been, I wonder
 Oikakeru watashi ga ita | Since I've been chasing after you?
@@ -62,7 +62,7 @@ Watashi wa nanimo ienakute | I couldn't utter a word
 |
 Hontou wa zutto kimi no koto wo | The truth is that somewhere deep down
 Dokoka de wakatteita | I already knew how I felt about you
-Mitsukattatte todoki wa shinai | But I couldn't say it
+Mitsukattatte todoki wa shinai | But I just couldn't say it
 Dame da yo nakanaide | No, don't cry
 Sou iikikaseta | I told myself
 |
@@ -82,11 +82,11 @@ Iwanakatta | I didn't say it
 Ienakatta | I couldn't say it
 Nido to modorenai | And now there's no going back
 |
-Ano natsu no hi | The summer night
+Ano natsu no hi | That summer night
 Kirameku hoshi | The twinkling stars
-Ima demo omoidaseru yo | I remember them even now
+Ima demo omoidaseru yo | I remember them clearly even now
 Waratta kao mo | I remember your smile
-Okotta kao mo | And your frown
+Okotta kao mo | And also your frown
 Daisuki deshita | I loved them both
 Okashii yo ne | Isn't it strange?
 Wakatteta no ni | Even though I knew
