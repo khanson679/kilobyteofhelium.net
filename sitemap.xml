@@ -15,15 +15,19 @@
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/archive.html</loc>
-  <lastmod>2022-12-16T02:37:00Z</lastmod>
+  <lastmod>2022-12-21T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/categories/</loc>
-  <lastmod>2022-12-16T02:37:00Z</lastmod>
+  <lastmod>2022-12-23T05:56:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/categories/cat_linguistics/</loc>
   <lastmod>2022-12-16T02:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.kilogramofhelium.net/categories/cat_linux/</loc>
+  <lastmod>2022-12-21T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/categories/cat_psychology/</loc>
@@ -42,6 +46,10 @@
   <lastmod>2022-12-16T02:37:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.kilogramofhelium.net/categories/linux/</loc>
+  <lastmod>2022-12-23T05:56:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.kilogramofhelium.net/categories/math/</loc>
   <lastmod>2022-12-16T02:37:00Z</lastmod>
  </url>
@@ -58,6 +66,10 @@
   <lastmod>2022-12-13T04:56:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.kilogramofhelium.net/categories/ubuntu/</loc>
+  <lastmod>2022-12-23T05:56:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.kilogramofhelium.net/galleries/</loc>
   <lastmod>2022-12-09T04:30:00Z</lastmod>
  </url>
@@ -72,6 +84,10 @@
  <url>
   <loc>https://www.kilogramofhelium.net/posts/2022/hello-world/</loc>
   <lastmod>2022-12-11T05:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.kilogramofhelium.net/posts/2022/linux-adventures/</loc>
+  <lastmod>2022-12-21T00:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/posts/2022/reflections-on-personality/</loc>
