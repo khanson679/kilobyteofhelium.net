@@ -28,14 +28,14 @@ In the past, Linux was mostly developed by volunteers and hobbyists, but nowaday
 
 The second distinguishing factor is that the various parts of the system, such as the Linux kernel (the core of the system) and the graphical and audio subsystems, are independent projects.
 These are assembled into complete systems called called "distros" (short for "distribution").
-Most of the big distros that you may have heard of, like Ubuntu, Fedora, and Arch, are overwhelmingly similar to each other.
+Most of the big distros that you may have heard of, like Ubuntu, Fedora, and Arch, are extremely similar to each other in terms of software composition.
 No matter which you use, you're getting the Linux kernel, X.Org or Wayland for graphics, PulseAudio for audio, and so on.
 Because of this, which to use mostly comes down to personal preference.
 
 Perhaps the coolest thing about Linux from the user perspective is that there are several completely different graphical interfaces available, called "desktop environments".
 Imagine being able to put the Mac interface on your Windows 10 installation, or vice versa.
 That's basically the situation with Linux.
-If one desktop environment doesn't suit your fancy, you can swap it about for another.
+If one desktop environment doesn't suit your fancy, you can swap it for another.
 
 
 # Early Experiments
@@ -53,7 +53,7 @@ The concept is similar to but not exactly the same as an emulator, which simulat
 
 The software I was using is called [VirtualBox](https://en.wikipedia.org/wiki/VirtualBox), and it's still around today.
 I highly recommend it as a way of getting your feet wet.
-You can install and try out different distros without affecting your current setup, and you can screw around to your heart's content with essentially no risk of damage to the host system.
+You can install and try out different distros without affecting your current setup, and you can experiment to your heart's content with essentially no risk of damage to the host system.
 
 It was probably around 2008 when I started doing this.
 Linux really wasn't ready for prime time yet, though things were changing rapidly.
@@ -80,14 +80,14 @@ We were taught how to use SSH to log in to a server, and navigate using the term
 I kept up with the first two, but gave up on Vim after a semester -- it was just too weird.
 Nowadays I could probably make myself learn it, but now I have [Sublime Text](https://www.sublimetext.com/), which basically does everything I could possibly ask for.
 
-The department's Linux workstations and servers all ran [Debian](https://en.wikipedia.org/wiki/Debian).
+The department's Linux desktops and servers all ran [Debian](https://en.wikipedia.org/wiki/Debian).
 The only reason I knew this was because of the default desktop background.
 Since everything was managed by the department, the choice of distro was more or less irrelevant for us.
 
 I feel like I really got going one summer when I worked as a research assistant for a computer science lab.
 I was basically a grunt programmer, but it was a perfect opportunity to work on my techie skills while getting paid.
-We had a little robot running Ubuntu, and we needed to offload some of the heavy computing to another Ubuntu computer.
-Naturally, I did all my work on an Ubuntu workstation as well.
+We had a little robot running Ubuntu, and we offloaded some of the heavy lifting to another Ubuntu computer.
+<!-- Naturally, I did all my work on an Ubuntu computer as well. -->
 I taught myself how to install and configure all the software we needed.
 By the end of the summer, I more or less knew what I was doing.
 
@@ -98,14 +98,14 @@ The interface was snappy, updates were quick and painless, and I had Firefox, Li
 When there was a problem, it was very easy to ask Google what package I needed to install, or what setting to change.
 
 My understanding is that by this point there were two big issues holding Linux back: (1) hardware compatibility and (2) inability to run most games and commercial software.
-My work computer was a generic Dell desktop; if you had a laptop and the WiFi didn't work, then you'd be pretty much out of luck.
+My work computer was a generic Dell desktop; if you had a laptop and the WiFi didn't work then you were pretty much out of luck.
 Likewise, I had no need for any specific proprietary software at work.
 Both of these issues have diminished considerably in the years since then, but I think they are still the two major sticking points.
 
 I continued to use Windows on my personal computer mostly for software reasons, but I installed [Linux Mint](https://en.wikipedia.org/wiki/Linux_Mint) in a dual-boot configuration for programming.
 Linux provides a way better programming environment than Windows, especially for beginners.
-Make a little Python program, type "python3 name-of-program.py", and you're on your way.
-Only in the last few years with the advent of [WSL 2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux), which is basically glorified virtual machine, has the gap narrowed at all.
+Make a little Python program, type "python name-of-program.py", and you're on your way.
+Only in the last few years has the gap narrowed at all, thanks in part to [WSL 2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux), which is basically a glorified virtual machine.
 In any case, by this point I more or less knew that I'd be able to switch to Linux full time should I feel inclined.
 
 
@@ -128,10 +128,6 @@ So, I decided that this would be a good time to try making Linux my primary oper
 I started doing all my work on my Linux Mint install, only switching back to Windows when absolutely necessary, which it rarely was.
 
 I transitioned from Microsoft Office to LibreOffice.
-LibreOffice Writer was already quite good, actually superior to Word in many ways.
-Calc, the spreadsheet app, was perfectly adequate for my purposes.
-Impress, the PowerPoint equivalent, was pretty bad (it still is), but that didn't really matter to me.
-
 Some of my programs, like Firefox and Dropbox, were already available on Linux, so no change there.
 I switched from Notepad++ to Sublime Text, and couldn't be happier.
 I really only missed two things: Age of Empires (an RTS game) and Sibelius (music composition software).
@@ -145,7 +141,7 @@ I'll mention a couple big ones.
 For various reasons, I experimented with several desktop environments, eventually settling on KDE, which I consider to be the true successor to old-school Windows.
 So what was the problem?
 Well, the transition from KDE 4 to version 5 was happening around this time, and it was a bit messy.
-The first few releases of KDE 5, officially "Plasma 5", were so buggy that they were unusable, while KDE 4 was no longer being developed, and therefore not receiving any bug fixes and improvements.
+The first few releases of KDE 5, officially "Plasma 5", were so buggy that they were unusable, while KDE 4 was no longer being developed, and therefore not receiving any improvements.
 Linux Mint, which tracks the LTS (2 year release cycle) version of Ubuntu, was stuck on the frozen KDE 4, while the most recent non-LTS (6 month) releases of Ubuntu had the buggy Plasma 5.
 By 2016, though, Plasma 5 was more or less fine, and it has only gotten better and better since then.
 Linux Mint discontinued their KDE release, so I went with Ubuntu.
@@ -195,5 +191,8 @@ But the fact is that a lot of people just don't care that much, and find this to
 
 Finally, there's the problem of choosing a distro.
 I'm of the opinion that it doesn't matter that much.
-I suggest Ubuntu, not because I'm convinced that it's the best, but because it's available with almost every major desktop environment, and it's popular, so it's easy to get help.
-But if you have a friend or family member who can provide you with tech support and they use something different, then maybe try that instead.
+I suggest Ubuntu (or it's close relative, Linux Mint), not because I'm convinced that it's the best, but because it's available with almost every major desktop environment, and it's popular, so it's easy to get help.
+But if you have a friend or family member who can provide you with tech support and they use something else, then maybe try that instead.
+
+But do give Linux a try.
+You just might like it.
