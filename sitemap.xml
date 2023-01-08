@@ -7,19 +7,23 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.kilogramofhelium.net/</loc>
-  <lastmod>2022-12-11T06:06:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/2022/</loc>
   <lastmod>2022-12-09T04:30:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.kilogramofhelium.net/2023/</loc>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.kilogramofhelium.net/archive.html</loc>
-  <lastmod>2022-12-21T00:31:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/categories/</loc>
-  <lastmod>2022-12-23T05:56:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/categories/cat_linguistics/</loc>
@@ -28,6 +32,10 @@
  <url>
   <loc>https://www.kilogramofhelium.net/categories/cat_linux/</loc>
   <lastmod>2022-12-21T00:31:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.kilogramofhelium.net/categories/cat_miscellaneous/</loc>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/categories/cat_psychology/</loc>
@@ -60,6 +68,14 @@
  <url>
   <loc>https://www.kilogramofhelium.net/categories/personality/</loc>
   <lastmod>2022-12-11T05:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.kilogramofhelium.net/categories/piano/</loc>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.kilogramofhelium.net/categories/talent/</loc>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.kilogramofhelium.net/categories/translations/</loc>
@@ -98,7 +114,15 @@
   <lastmod>2022-12-13T06:09:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.kilogramofhelium.net/posts/2022/talent-and-the-lack-thereof/</loc>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.kilogramofhelium.net/posts/2022/things-im-thankful-for-2022/</loc>
   <lastmod>2022-12-14T02:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.kilogramofhelium.net/posts/2023/song-translation-itsumo-nando-demo/</loc>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </url>
 </urlset>

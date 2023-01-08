@@ -11,7 +11,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/categories/cat_linux.xml</loc>
-  <lastmod>2022-12-23T05:56:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.kilogramofhelium.net/categories/cat_miscellaneous.xml</loc>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/categories/cat_psychology.xml</loc>
@@ -19,7 +23,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/categories/cat_song-translations.xml</loc>
-  <lastmod>2022-12-19T06:17:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/categories/computation.xml</loc>
@@ -31,7 +35,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/categories/linux.xml</loc>
-  <lastmod>2022-12-23T05:56:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/categories/math.xml</loc>
@@ -39,30 +43,38 @@
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/categories/music.xml</loc>
-  <lastmod>2022-12-19T06:17:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/categories/personality.xml</loc>
   <lastmod>2022-12-11T19:27:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.kilogramofhelium.net/categories/piano.xml</loc>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.kilogramofhelium.net/categories/talent.xml</loc>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.kilogramofhelium.net/categories/translations.xml</loc>
-  <lastmod>2022-12-19T06:17:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/categories/ubuntu.xml</loc>
-  <lastmod>2022-12-23T05:56:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/galleries/rss.xml</loc>
-  <lastmod>2022-12-09T04:30:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/rss.xml</loc>
-  <lastmod>2022-12-23T05:56:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.kilogramofhelium.net/sitemap.xml</loc>
-  <lastmod>2022-12-23T05:56:00Z</lastmod>
+  <lastmod>2023-01-08T06:45:00Z</lastmod>
  </sitemap>
 </sitemapindex>
