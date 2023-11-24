@@ -47,7 +47,7 @@ A [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine) is exactly wh
 Basically, it's a program that you run on your computer like any other, which allows you to run *a whole other operating system* inside.
 From the perspective of the "guest" operating system, it's just running on ordinary computer hardware, but this is an illusion created by the virtual machine software.
 In reality, it's sharing the hardware of the "host" system.
-From the user perspective you get get a normal window showing the virtual display.
+From the user perspective you get a normal window showing the virtual display.
 You can click into it and use your keyboard like any other program, give it pass-through internet access and so on.
 The concept is similar to but not exactly the same as an emulator, which simulates a completely different kind of computer (emulators are commonly used for playing old video games on modern computers).
 
@@ -162,7 +162,7 @@ I've had the exquisite displeasure of helping family members troubleshoot and fi
 My computer is snappy and responsive despite being 5 years old and only having a dual-core CPU.
 My software updates are instantaneous and rarely require reboots; upgrading to the next version of Ubuntu takes minutes, not hours.
 Plasma 5 is beautiful, functional, and customizable; Windows 10 is ugly and full of irritating pop-ups, advertisements, and spyware.
-I have can install almost all of my software automatically with a single command if I ever need to setup a new computer.
+I can install almost all of my software automatically with a single command if I ever need to setup a new computer.
 Some of my old games that I play using [Wine](https://en.wikipedia.org/wiki/Wine_(software)) or in a virtual machine don't work on recent versions of Windows anyway.
 
 Oh, and before you suggest that I get a Mac: no.

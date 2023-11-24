@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Kilobyte of Helium</title><link>https://www.kilogramofhelium.net/</link><description>Some thoughts about some things.</description><atom:link href="https://www.kilogramofhelium.net/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;&lt;/a&gt; </copyright><lastBuildDate>Sun, 08 Jan 2023 06:57:34 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Song Translation: Itsumo Nando Demo</title><link>https://www.kilogramofhelium.net/posts/2023/song-translation-itsumo-nando-demo/</link><description>&lt;p&gt;I'd like to start the new year with another song translation.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Kilobyte of Helium</title><link>https://www.kilogramofhelium.net/</link><description>Some thoughts about some things.</description><atom:link href="https://www.kilogramofhelium.net/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;&lt;/a&gt; </copyright><lastBuildDate>Fri, 24 Nov 2023 05:22:57 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Things I'm Thankful For (2023)</title><link>https://www.kilogramofhelium.net/posts/2023/things-im-thankful-for-2023/</link><description>&lt;p&gt;It's been a bit of a crazy year.
+And I've been doing a lot of writing, just not on this blog.
+Here's to attempt number two to be consistent, starting with a Thanksgiving post -- and on time this year too!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;More repaved roads&lt;/strong&gt; &lt;br&gt;
+    Last year I mentioned that the terrible road I ride to school/work had been repaved, but the (even worse) road to the grocery store had not. Now they've done that one too!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PhD candidate&lt;/strong&gt; &lt;br&gt;
+    I hit a big milestone this year. By finishing my second qualifying paper, I am now in the final segment of my PhD. I'm officially done taking classes, and get to focus on my research.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching a grad class&lt;/strong&gt; &lt;br&gt;
+    My advisor had a bunch of students who wanted to do a directed reading with him, so he set up a proper class and hired me to do most of the instruction. It's been very fun, and very different from normal TA duties.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Networking&lt;/strong&gt; &lt;br&gt;
+    I had a blast meeting other linguistics professors and students at several conferences this year. On the one hand, as an introvert I think that business networking is basically the work activity imaginable. I think the reason this sort of thing is okay is because there's a real connection talking to people about their research when it's genuinely interesting to you, and vice versa.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fellowship&lt;/strong&gt; &lt;br&gt;
+    After several failures, I finally managed to get a small fellowship, which increases my graduate student stipend to a level that is no longer completely laughable. With Long Island housing prices, I can now afford to live in someone's basement all by myself!!!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Laptop miracle&lt;/strong&gt; &lt;br&gt;
+    A few months ago I dropped my laptop straight down onto a hard floor. I was certain it was destroyed. No, not only was it completely okay, the condition actually improved, as whatever misaligned part was causing phantom scrolling since I got it is now fixed!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Survivor phone&lt;/strong&gt; &lt;br&gt;
+    I bought a Sony Xperia XZ1 Compact in 2020. The phone itself came out in 2017. It was basically the last non-gigantic phone ever made, and I'm clinging to it as long as I can. So far, so good.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fancy office&lt;/strong&gt; &lt;br&gt;
+    I finally got around to getting myself a desk at my university's Institute for Advanced Computational Science. It's an open office, but they have windows. Windows!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ghibli movie&lt;/strong&gt; &lt;br&gt;
+    I adore Studio Ghibli, but they haven't produced much in the last few years. But this year Miyazaki himself directed a new film, which is supposed to come to the US soon. Very excited.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Direct flights&lt;/strong&gt; &lt;br&gt;
+    It still takes forever to go home for a vacation -- three hours on trains and busses before I even get to the airport -- but at least LGA has frequent direct flights to where my family lives.&lt;/li&gt;
+&lt;/ol&gt;</description><guid>https://www.kilogramofhelium.net/posts/2023/things-im-thankful-for-2023/</guid><pubDate>Fri, 24 Nov 2023 04:44:38 GMT</pubDate></item><item><title>Song Translation: Itsumo Nando Demo</title><link>https://www.kilogramofhelium.net/posts/2023/song-translation-itsumo-nando-demo/</link><description>&lt;p&gt;I'd like to start the new year with another song translation.&lt;/p&gt;
 &lt;p&gt;This is the ending theme to the Miyazaki film "Spirited Away", and one of the first Japanese songs I learned.
 It's somewhat melancholy, yet uplifting, and it's hard to convey just how simple yet beautiful the words are.&lt;/p&gt;
 &lt;hr&gt;
@@ -197,7 +221,7 @@ Partly inspired by this, I played around with Ubuntu and several other distros u
 Basically, it's a program that you run on your computer like any other, which allows you to run &lt;em&gt;a whole other operating system&lt;/em&gt; inside.
 From the perspective of the "guest" operating system, it's just running on ordinary computer hardware, but this is an illusion created by the virtual machine software.
 In reality, it's sharing the hardware of the "host" system.
-From the user perspective you get get a normal window showing the virtual display.
+From the user perspective you get a normal window showing the virtual display.
 You can click into it and use your keyboard like any other program, give it pass-through internet access and so on.
 The concept is similar to but not exactly the same as an emulator, which simulates a completely different kind of computer (emulators are commonly used for playing old video games on modern computers).&lt;/p&gt;
 &lt;p&gt;The software I was using is called &lt;a href="https://en.wikipedia.org/wiki/VirtualBox"&gt;VirtualBox&lt;/a&gt;, and it's still around today.
@@ -288,7 +312,7 @@ I've had the exquisite displeasure of helping family members troubleshoot and fi
 &lt;p&gt;My computer is snappy and responsive despite being 5 years old and only having a dual-core CPU.
 My software updates are instantaneous and rarely require reboots; upgrading to the next version of Ubuntu takes minutes, not hours.
 Plasma 5 is beautiful, functional, and customizable; Windows 10 is ugly and full of irritating pop-ups, advertisements, and spyware.
-I have can install almost all of my software automatically with a single command if I ever need to setup a new computer.
+I can install almost all of my software automatically with a single command if I ever need to setup a new computer.
 Some of my old games that I play using &lt;a href="https://en.wikipedia.org/wiki/Wine_(software)"&gt;Wine&lt;/a&gt; or in a virtual machine don't work on recent versions of Windows anyway.&lt;/p&gt;
 &lt;p&gt;Oh, and before you suggest that I get a Mac: no.
 Apple's computers are overpriced, I don't like their hardware or their software, and I still can't play my games without Wine.&lt;/p&gt;

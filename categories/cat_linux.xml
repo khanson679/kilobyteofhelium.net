@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Kilobyte of Helium (Posts about linux)</title><link>https://www.kilogramofhelium.net/</link><description></description><atom:link href="https://www.kilogramofhelium.net/categories/cat_linux.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;&lt;/a&gt; </copyright><lastBuildDate>Sun, 08 Jan 2023 06:45:55 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Linux Adventures</title><link>https://www.kilogramofhelium.net/posts/2022/linux-adventures/</link><description>&lt;p&gt;I've been using &lt;a href="https://en.wikipedia.org/wiki/Linux"&gt;Linux&lt;/a&gt; in some capacity for over 10 years now, and it's been my primary operating system for about 7.
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Kilobyte of Helium (Posts about linux)</title><link>https://www.kilogramofhelium.net/</link><description></description><atom:link href="https://www.kilogramofhelium.net/categories/cat_linux.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;&lt;/a&gt; </copyright><lastBuildDate>Fri, 24 Nov 2023 04:50:55 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Linux Adventures</title><link>https://www.kilogramofhelium.net/posts/2022/linux-adventures/</link><description>&lt;p&gt;I've been using &lt;a href="https://en.wikipedia.org/wiki/Linux"&gt;Linux&lt;/a&gt; in some capacity for over 10 years now, and it's been my primary operating system for about 7.
 For the most part, it's served my needs well.
 It's also been interesting to watch Linux mature as a desktop OS while Windows has mostly gotten &lt;em&gt;worse&lt;/em&gt; over the same time period.
 In this post I want to talk a bit about my journey.&lt;/p&gt;
@@ -27,7 +27,7 @@ Partly inspired by this, I played around with Ubuntu and several other distros u
 Basically, it's a program that you run on your computer like any other, which allows you to run &lt;em&gt;a whole other operating system&lt;/em&gt; inside.
 From the perspective of the "guest" operating system, it's just running on ordinary computer hardware, but this is an illusion created by the virtual machine software.
 In reality, it's sharing the hardware of the "host" system.
-From the user perspective you get get a normal window showing the virtual display.
+From the user perspective you get a normal window showing the virtual display.
 You can click into it and use your keyboard like any other program, give it pass-through internet access and so on.
 The concept is similar to but not exactly the same as an emulator, which simulates a completely different kind of computer (emulators are commonly used for playing old video games on modern computers).&lt;/p&gt;
 &lt;p&gt;The software I was using is called &lt;a href="https://en.wikipedia.org/wiki/VirtualBox"&gt;VirtualBox&lt;/a&gt;, and it's still around today.
@@ -118,7 +118,7 @@ I've had the exquisite displeasure of helping family members troubleshoot and fi
 &lt;p&gt;My computer is snappy and responsive despite being 5 years old and only having a dual-core CPU.
 My software updates are instantaneous and rarely require reboots; upgrading to the next version of Ubuntu takes minutes, not hours.
 Plasma 5 is beautiful, functional, and customizable; Windows 10 is ugly and full of irritating pop-ups, advertisements, and spyware.
-I have can install almost all of my software automatically with a single command if I ever need to setup a new computer.
+I can install almost all of my software automatically with a single command if I ever need to setup a new computer.
 Some of my old games that I play using &lt;a href="https://en.wikipedia.org/wiki/Wine_(software)"&gt;Wine&lt;/a&gt; or in a virtual machine don't work on recent versions of Windows anyway.&lt;/p&gt;
 &lt;p&gt;Oh, and before you suggest that I get a Mac: no.
 Apple's computers are overpriced, I don't like their hardware or their software, and I still can't play my games without Wine.&lt;/p&gt;
